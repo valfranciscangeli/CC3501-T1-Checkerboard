@@ -41,4 +41,5 @@ Fondo:
 Comentarios dentro del código en español. Algunos se mantienen en
 inglés, originales del código base "tarea1_v0.py".
 
-
+Para ejecutar los códigos se deben intalar ciertas librerías. 
+- Utilizando pip: pip install numpy scipy matplotlib pyopengl glfw ipython jupyter pillow imgui[glfw]
