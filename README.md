@@ -3,7 +3,7 @@ tarea 1 para el curso CC3501
 Por Valeria Vallejos Franciscangeli vvfranciscangeli@gmail.com
 Repositorio con distintas implementaciones, enunciado e imagenes 
 de referencia disponible en:
-https://github.com/valfranciscangeli/tarea01_graficas.git
+https://github.com/valfranciscangeli/Tablero_de_damas-Tarea1_CC3501.git
 
 Para esta Tarea, me basé en el dibujo de muestra del enunciado 
 para encontrar las coordenadas adecuadas.
